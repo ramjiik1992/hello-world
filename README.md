@@ -1,2 +1,2 @@
 # hello-world
-for git learning-modifying read me file in readme branch
+for git rning-modifying read me file in readme branch
